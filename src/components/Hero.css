@@ -17,8 +17,8 @@
 
 .hero h1 {
   padding: 1rem 0;
-  letter-spacing: 0.14rem;
-  font-weight: 300;
+  /* letter-spacing: 0.14rem;
+  font-weight: 300; */
 }
 
 .hero .input-container {
